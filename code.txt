@@ -1,3 +1,6 @@
+#setting prettier in vscode
+https://www.digitalocean.com/community/tutorials/how-to-format-code-with-prettier-in-visual-studio-code
+
 #create vuejs project
 vue create app-name
 
