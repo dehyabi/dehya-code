@@ -1,3 +1,6 @@
+#run development server in vuejs
+yarn serve
+
 #setting prettier in vscode
 https://www.digitalocean.com/community/tutorials/how-to-format-code-with-prettier-in-visual-studio-code
 
