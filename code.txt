@@ -1,3 +1,6 @@
+#install vuejs on linux
+sudo npm install -g @vue/cli
+
 #create http server using nodejs
 var http = require('http');
 http.createServer(function (req, res) {
