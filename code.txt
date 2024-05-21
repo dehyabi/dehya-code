@@ -1,3 +1,6 @@
+#create vuejs project
+vue create app-name
+
 #install vuejs on linux
 sudo npm install -g @vue/cli
 
